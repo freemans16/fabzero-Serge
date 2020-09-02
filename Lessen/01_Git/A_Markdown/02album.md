@@ -20,6 +20,12 @@ images:
 
 # Album Images
 
+foto va internet
+
+![foto.Serge.](https://davehakkens.nl/community/members/sergesteenland/)
+
+foto repository
+
 ![foto Serge.]({{site.baseurl }}/assets/serge.jpg)
 
 {% include album.liquid data=page.images %}

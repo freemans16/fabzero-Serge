@@ -20,7 +20,7 @@ images:
 
 # Album Images
 
-foto va internet
+foto van internet
 
 ![foto.Online.](https://www.elle.be/nl/wp-content/uploads/2015/01/fotoapps_v.jpg)
 

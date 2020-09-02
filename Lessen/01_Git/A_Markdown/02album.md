@@ -22,7 +22,7 @@ images:
 
 foto va internet
 
-![foto.Serge.](https://davehakkens.nl/community/members/sergesteenland/)
+![foto.Serge.](https://www.flickr.com/photos/124363885@N07/13972713519)
 
 foto repository
 

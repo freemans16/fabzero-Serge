@@ -22,7 +22,7 @@ images:
 
 foto va internet
 
-![foto.Serge.](https://www.flickr.com/photos/124363885@N07/13972713519)
+![foto.Online.](https://www.elle.be/nl/wp-content/uploads/2015/01/fotoapps_v.jpg)
 
 foto repository
 

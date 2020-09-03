@@ -2,7 +2,7 @@
 
 ## Info over mezelf
 
-![Foto_Serge]({{site.baseurl}}/asset/serge200.jpg):
+![Foto_Serge]({{site.baseurl }}/assets/serge200.jpg):
 
 Hallo, ik ben **Serge Steenland**
 

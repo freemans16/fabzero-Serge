@@ -22,4 +22,4 @@ Door het fablab en makerspace werking heb ik al een notie van arduino.
 
 In het verleden heb ik de cursus _basis elektronika en TV techniek_ gevolgd maar door de jaren is dat een beetje verwaterd.
 
-hier vind je een link naar de website waar we een aantal creaties tonen die we gemaakt hebben: ![website_creakase.be](https://creakase.be/)
+hier vind je een link naar de website waar we een aantal creaties tonen die we gemaakt hebben: [website_creakase.be](https://creakase.be/)

@@ -1,5 +1,3 @@
-# Git gebruiken
-
 # Fabzero opleiding
 
 ## Info over mezelf
@@ -23,7 +21,5 @@ Meegenomen in de opleiding zijn de verschillende 3D ontwerp programma's ik heb a
 Door het fablab en makerspace werking heb ik al een notie van arduino.
 
 In het verleden heb ik de cursus _ basis elektronika en TV techniek _ gevolgd maar door de jaren is dat een beetje verwaterd.
-
-Stuur de link naar deze repo naar de FabZero verantwoordelijke.
 
 source: `{{ page.path }}`

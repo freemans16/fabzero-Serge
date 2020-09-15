@@ -8,7 +8,7 @@ Hallo, ik ben **Serge Steenland**
 
 Mijn interesse in Fabzero gaat naar verschillende dingen die ter sprake komen.
 
-* Zelf heb ben ik bezig als maker met: 
+* Zelf ben ik bezig als maker met: 
  * lasercutter
  * 3D printer
  * sublimatie 

@@ -11,3 +11,7 @@ Hieronder wat oefeningen die we in de les hebben gedaan:
 ![Foto_Cadeau_doos]({{site.baseurl }}/assets/cadeaudoos.jpg):
 ![Foto_stoel]({{site.baseurl }}/assets/Stoel.jpg):
 ![Foto_tafel]({{site.baseurl }}/assets/Tafel.jpg):
+
+Hieronder vind je een proto type van een lampkap:
+
+![Foto_lampkap]({{site.baseurl }}/assets/lampkap.jpg):

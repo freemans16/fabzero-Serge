@@ -17,5 +17,6 @@ Ondertussen ook snel mijn prototype op schaal gelaserd, voor mijn eindwerk (de P
 
 Box gelaserd, kerf op 0.16 gezet en toch was alles los. Uiteidelijk alles in elkaar gelijmd.
 
+<img src="/assets/PLYO_Box_Schaal.jpg" width="40%">
 ![Foto_PLYO_Box]({{site.baseurl }}/assets/PLYO_Box_Schaal.jpg):
 

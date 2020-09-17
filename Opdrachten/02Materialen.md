@@ -8,10 +8,10 @@ Ook door de mannier waarop je plooid kan je onverwacht op andere ideën brengen 
 
 Hieronder wat oefeningen die we in de les hebben gedaan:
 
-![Foto_Cadeau_doos]({{site.baseurl }}/assets/cadeaudoos.jpg):
-![Foto_stoel]({{site.baseurl }}/assets/Stoel.jpg):
-![Foto_tafel]({{site.baseurl }}/assets/Tafel.jpg):
+<img src="{{site.baseurl }}/assets/cadeaudoos.jpg" width="40%">
+<img src="{{site.baseurl }}/assets/Stoel.jpg" width="40%">
+<img src="{{site.baseurl }}/assets/Tafel.jpg" width="40%">
 
 Hieronder vind je een proto type van een lampkap:
 
-![Foto_lampkap]({{site.baseurl }}/assets/lampkap.jpg):
+<img src="{{site.baseurl }}/assets/lampkap.jpg" width="40%">

@@ -8,10 +8,16 @@ Ondertussen ook snel mijn prototype op schaal gelaserd, voor mijn eindwerk (de P
 
 ### Stempel
 
-![Foto_Stempel_Handvat]({{site.baseurl }}/assets/StempelHandvat1.jpg):
-![Foto_Sempel_Handvat2]({{site.baseurl }}/assets/StempelHandvat2.jpg):
-![Foto_Stempel_Onderkant]({{site.baseurl }}/assets/stempel.jpg):
-![Foto_Test]({{site.baseurl }}/assets/testStempel.jpg):
+![Foto_Stempel_Handvat]():
+![Foto_Sempel_Handvat2]():
+![Foto_Stempel_Onderkant]():
+![Foto_Test]():
+
+<img src="{{site.baseurl }}/assets/StempelHandvat1.jpg" width="40%">
+<img src="{{site.baseurl }}/assets/StempelHandvat2.jpg" width="40%">
+<img src="{{site.baseurl }}/assets/stempel.jpg" width="40%">
+<img src="{{site.baseurl }}/assets/testStempel.jpg" width="40%">
+
 
 ### PLYO Box
 

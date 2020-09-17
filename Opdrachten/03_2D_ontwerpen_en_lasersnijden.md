@@ -4,7 +4,7 @@
 
 Toch nog niet gelaserd in stempel rubber dus was dit het moment om dit te proberen.
 
-Ondertussen ook snel mijn prototype op schaal gelaserd, voor mijn eindwerk (de PLYO Box 'sport jumping box') waar ik wat extras wil inbouwen maar toch niet in te boeten in stevigheid.
+Ondertussen ook snel mijn prototype op schaal gelaserd, voor mijn eindwerk (de PLYO Box 'sport jumping box') waar ik wat extras wil inbouwen en toch niet zal moeten inboeten in stevigheid.
 
 ### Stempel
 

@@ -37,5 +37,4 @@ Na aanpassing nog eens uitgeprint in MaM op de Ultimaker
 
 De STL: 
 
-<img src="assets/PotloodAddOn.stl" alt="STL Viewer Demo" width="400"/>
-
+mimeopen -d assets/PotloodAddOn.stl

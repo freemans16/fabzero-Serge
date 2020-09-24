@@ -1,6 +1,6 @@
 # 3D ontwerpen en 3D printen
 
-uitleg gehad over verscillende 3D printers en hoe ze werken.
+We hebben uitleg gehad over verscillende 3D printers en hoe ze werken.
 
 tinkercad en onshape basis uitgelegd.
 

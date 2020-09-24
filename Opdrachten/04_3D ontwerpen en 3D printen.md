@@ -33,4 +33,4 @@ eerste print met SLA thuis geprint maar bleek al vlug dat mijn tollerantie niet 
 Na aanpassing nog eens uitgeprint in MaM op de Ultimaker
 
 <img src="{{site.baseurl }}/assets/AddOn.jpg" width="40%">
-<img src="{{site.baseurl }}/assets/Ptloodaddon.jpg" width="40%">
+<img src="{{site.baseurl }}/assets/Potloodaddon.jpg" width="40%">

@@ -34,3 +34,7 @@ Na aanpassing nog eens uitgeprint in MaM op de Ultimaker
 
 <img src="{{site.baseurl }}/assets/AddOn.jpg" width="40%">
 <img src="{{site.baseurl }}/assets/Potloodaddon.jpg" width="40%">
+
+De STL: 
+
+<script src="https://github.com/freemans16/fabzero-Serge/blob/master/assets/PotloodAddOn.stl"></script>

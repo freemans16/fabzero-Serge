@@ -2,7 +2,7 @@
 
 We hebben uitleg gehad over verscillende 3D printers en hoe ze werken.
 
-tinkercad en onshape basis uitgelegd.
+Van Tinkercad en Onshape werd basis gegeven.
 
 We moesten in cardboard iets uitsnijden om in lagen op elkaar op te bouwen om het princiepe van een 3D printer na te bootsen. Ik heb de uigelaserde minion gemaakt die ik nog liggen had als voorbeeld.
 
@@ -12,11 +12,13 @@ Opdracht tegen volgende les was:
 
 ## Maak een add On voor op een potlood.
 
-### schets ontwerp
+### schets het ontwerp.
 
 Mijn ontwerp is simpel mijn naam getekend.
 
 <img src="{{site.baseurl }}/assets/sketch.jpg" width="40%">
+
+### Ontwerp het digitaal.
 
 Ik verkoos om dit te ontwerpen in Fusion 360 omdat ik dit programa beter onder de knie hebt dan Onshape en omdat het wat meer mogelijkheden bied.
 

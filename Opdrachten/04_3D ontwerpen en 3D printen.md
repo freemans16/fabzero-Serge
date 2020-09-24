@@ -29,3 +29,8 @@ Dacht eerst van schuine binnen vlakken in de naam te steken maar dacht dan als i
 eerste print met SLA thuis geprint maar bleek al vlug dat mijn tollerantie niet voldoende was daar hij teveel spande en op den duur kraakte. 
 
 <img src="{{site.baseurl }}/assets/topPotlood.jpg" width="40%">
+
+Na aanpassing nog eens uitgeprint in MaM op de Ultimaker
+
+<img src="{{site.baseurl }}/assets/AddOn.jpg" width="40%">
+<img src="{{site.baseurl }}/assets/Ptloodaddon.jpg" width="40%">

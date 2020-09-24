@@ -37,4 +37,5 @@ Na aanpassing nog eens uitgeprint in MaM op de Ultimaker
 
 De STL: 
 
-<script src="https://github.com/freemans16/fabzero-Serge/blob/master/assets/PotloodAddOn.stl"></script>
+<script src="assets/PotloodAddOn.stl"></script>
+assets/PotloodAddOn.stl

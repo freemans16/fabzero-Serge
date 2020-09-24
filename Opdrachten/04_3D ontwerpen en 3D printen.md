@@ -37,7 +37,7 @@ Na aanpassing nog eens uitgeprint in MaM op de Ultimaker
 
 De STL: 
 
+* [STL Potlood Add On](https://github.com/freemans16/fabzero-Serge/commit/0fd9cb653e3b6a0314fe36578017cf1e6858772a#commitcomment-42698342)
 
-<diff src="https://github.com/freemans16/fabzero-Serge/blob/master/assets/PotloodAddOn.stl">
-
+https://github.com/freemans16/fabzero-Serge/commit/0fd9cb653e3b6a0314fe36578017cf1e6858772a#commitcomment-42698342
 2

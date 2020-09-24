@@ -38,6 +38,6 @@ Na aanpassing nog eens uitgeprint in MaM op de Ultimaker
 De STL: 
 
 
-<src="https://github.com/freemans16/fabzero-Serge/blob/master/assets/PotloodAddOn.stl">
+<diff src="https://github.com/freemans16/fabzero-Serge/blob/master/assets/PotloodAddOn.stl">
 
-1
+2

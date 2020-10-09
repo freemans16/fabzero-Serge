@@ -6,7 +6,7 @@ Het is de bedoelig dat ik een PLYO Box maak waar al een muziek installatie in zi
 
 Een PLYO Box dient om op te sporten heeft verschillende hoogtes naar gelang je hem plaatst.
 
-De box moet stevig zijn daar hij onderandere gebruikt word om op te springen en van te springen.
+De box moet stevig zijn daar hij onder andere gebruikt wordt om op te springen en van te springen.
 
 Wat zeker aan bod komt is:
 * Prototyping

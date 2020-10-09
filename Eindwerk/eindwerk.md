@@ -42,6 +42,19 @@ Daar ik al vertrouwd ben met Fusion360 is dit het programma waar ik mijn tekenin
 
 Door beperking in vervoer heb ik alles op 3 halve multyplex platen getekend om uit te frezen.
 
+##CNC frezen
+
 Het frezen in met een upcut 8mm gedaan voor de snelheid wat te vergroten van het uitsnijden. Dit resulteerd wel dat de hoekjes met een beitel moet worden bijgewerkt, kan ook met Micky Mous oortjes maar wilde geen openingen in de hoekjes.
 
 <img src="{{site.baseurl }}/assets/20201008_171624.jpg" width="40%">
+
+Het frezen heb ik in Mam gedaan met de Yeti. Plaat moest zeer haaks liggen en het nulpunt zeer correct ingesteld zijn daar de tekening redelijk dicht bij de zijkanten getekend was voor optimaale plaat benutting te hebben.
+
+Ik had alles al eens laten berekenen door het programma Deepnest. Dat zorgt er voor dat je de stokken optimaal kan schikken op je plaat.
+
+Ik heb dan ook de platen in fusion bij getekend en de zijden over de plaaten verdeeld zoals ze in deepnest berekend waren.
+
+Wel heb ik gezorgd dat er voldoende ruimte tussen de verschillende zijden was om de frees te laten passeren zonder dat de stukken los gingen komen.
+
+<img src="{{site.baseurl }}/assets/fusionManufacturing.jpg" width="40%">
+

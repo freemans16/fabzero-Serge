@@ -42,7 +42,7 @@ Daar ik al vertrouwd ben met Fusion360 is dit het programma waar ik mijn tekenin
 
 Door beperking in vervoer heb ik alles op 3 halve multyplex platen getekend om uit te frezen.
 
-##CNC frezen
+## CNC frezen
 
 Het frezen in met een upcut 8mm gedaan voor de snelheid wat te vergroten van het uitsnijden. Dit resulteerd wel dat de hoekjes met een beitel moet worden bijgewerkt, kan ook met Micky Mous oortjes maar wilde geen openingen in de hoekjes.
 

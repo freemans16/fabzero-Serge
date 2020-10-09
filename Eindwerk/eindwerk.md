@@ -38,4 +38,4 @@ Daar ik al vertrouwd ben met Fusion360 is dit het programma waar ik mijn tekenin
 
 <img src="{{site.baseurl }}/assets/3DPlyoboxFusion.jpg" width="40%">
 
-[Fusion file PLYO_BOX v15]https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/freemans16/fabzero-Serge/blob/master/assets/PLYO_BOX%20v15.f3d
+[Fusion file PLYO_BOX v15](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/freemans16/fabzero-Serge/blob/master/assets/PLYO_BOX%20v15.f3d)

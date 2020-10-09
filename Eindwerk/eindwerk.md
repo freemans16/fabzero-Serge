@@ -36,4 +36,4 @@ Ik heb de box geschaald en gelaserd om te zien of het op die correct was gemaakt
 
 Daar ik al vertrouwd ben met Fusion360 is dit het programma waar ik mijn tekeningen zal in maken.
 
-[image Fusion 360](https://drive.google.com/file/d/1r5Sp2oGAnKE7BGvwUIC3MD8SKfGcU5xl/view?usp=sharing)
+<img src="{{site.baseurl }}/assets/3DPlyobox.jpg" width="40%">

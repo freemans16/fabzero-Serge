@@ -50,7 +50,7 @@ Het frezen is met een upcut 8mm gedaan voor de snelheid wat te vergroten van het
 
 Het frezen heb ik in Mam gedaan met de Yeti. Plaat moest zeer haaks liggen en het nulpunt zeer correct ingesteld zijn daar de tekening redelijk dicht bij de zijkanten getekend was voor optimaale plaat benutting te hebben.
 
-Ik had alles al eens laten berekenen door het programma Deepnest. Dat zorgt er voor dat je de stokken optimaal kan schikken op je plaat.
+Ik had alles al eens laten berekenen door het programma Deepnest. Dat zorgt er voor dat je de stukken optimaal kan schikken op je plaat.
 
 Ik heb dan ook de platen in fusion bij getekend en de zijden over de plaaten verdeeld zoals ze in deepnest berekend waren.
 

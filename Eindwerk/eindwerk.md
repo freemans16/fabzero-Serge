@@ -2,7 +2,7 @@
 
 ## Beschrijving
 
-Het is de bedoelig dat ik een PLYO Box maak waar al een muziek installatie in zit zodoende dat trainen op de box net iets leuker word.
+Het is de bedoelig dat ik een PLYO Box maak waar al een muziek installatie in zit, zodoende dat trainen op de box net iets leuker word.
 
 Een PLYO Box dient om op te sporten heeft verschillende hoogtes naar gelang je hem plaatst.
 

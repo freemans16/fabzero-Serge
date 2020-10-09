@@ -31,3 +31,8 @@ Om geen hinder in het hebruik van de box te hebben, verkies ik om de bediening b
 Ik heb de box geschaald en gelaserd om te zien of het op die correct was gemaakt
 
 <img src="{{site.baseurl }}/assets/PLYO_Box_Schaal.jpg" width="40%">
+
+## Fusion 360
+
+Daar ik al vertrouwd ben met Fusion360 is dit het programma waar ik mijn tekeningen zal in maken.
+

@@ -39,3 +39,9 @@ Daar ik al vertrouwd ben met Fusion360 is dit het programma waar ik mijn tekenin
 <img src="{{site.baseurl }}/assets/3DPlyoboxFusion.jpg" width="40%">
 
 [Fusion file PLYO_BOX v15](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/freemans16/fabzero-Serge/blob/master/assets/PLYO_BOX%20v15.f3d)
+
+Door beperking in vervoer heb ik alles op 3 halve multyplex platen getekend om uit te frezen.
+
+Het frezen in met een upcut 8mm gedaan voor de snelheid wat te vergroten van het uitsnijden. Dit resulteerd wel dat de hoekjes met een beitel moet worden bijgewerkt, kan ook met Micky Mous oortjes maar wilde geen openingen in de hoekjes.
+
+<img src="{{site.baseurl }}/assets/20201008_171624.jpg" width="40%">

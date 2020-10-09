@@ -44,7 +44,7 @@ Door beperking in vervoer heb ik alles op 3 halve multyplex platen getekend om u
 
 ## CNC frezen
 
-Het frezen in met een upcut 8mm gedaan voor de snelheid wat te vergroten van het uitsnijden. Dit resulteerd wel dat de hoekjes met een beitel moet worden bijgewerkt, kan ook met Micky Mous oortjes maar wilde geen openingen in de hoekjes.
+Het frezen is met een upcut 8mm gedaan voor de snelheid wat te vergroten van het uitsnijden. Dit resulteerd wel dat de hoekjes met een beitel moet worden bijgewerkt, kan ook met Micky Mous oortjes maar wilde geen openingen in de hoekjes.
 
 <img src="{{site.baseurl }}/assets/20201008_171624.jpg" width="40%">
 

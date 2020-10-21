@@ -72,11 +72,17 @@ Vervolgens ook de andere kanten op de zelfde mannier gedaan.
 
 Ondertussen was het tijd om de luidsprekers te monteren in het middenstuk.
 
-<img src="{{site.baseurl }}/assets/MiddenpanneelMetLuidsprekers .jpg" width="40%">
+<img src="{{site.baseurl }}/assets/MiddenpanneelMetLuidsprekers.jpg" width="40%">
 
 Dit was een perfecte maat.
 
+Ondertussen de bedrading van de luidsprekers naar een filter om de juitse klank naar de juiste luidsprekers te sturen en daarna ook een stuurprint er aan te monteren.
 
+Ik heb dan gekozen om de sturing te voeden met een lithium baterij. Dit om geen bekabeling buiten de box te hebben.
+
+Dus was alles klaar voor de eerste test
+
+<img src="{{site.baseurl }}/assets/middenstuk.jpg" width="40%">
 
 
 

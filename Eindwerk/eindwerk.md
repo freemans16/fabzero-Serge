@@ -84,6 +84,24 @@ Dus was alles klaar voor de eerste test
 
 <img src="{{site.baseurl }}/assets/middenstuk.jpg" width="40%">
 
+Test op baterij werkte naar wens, verbinding via bluetooth was ook goed.
 
+### Montage
 
+Nu kwam de tijd om alles samen te brengen.
 
+Eerst heb ik het frame samen gezet met klemmen om alles mooi voor te boren tegen splitten. dus het schroefgat met een 2mm en de eerste laag met een dikte die net iets groter was dan de schroef zelf om een goede verbinding te kunnen maken.
+
+<img src="{{site.baseurl }}/assets/opbouw2.jpg" width="40%">
+
+daarna nog een stukje verzonken zodoened de kop iets in het hout zou zitten.
+
+Nadien alles eerst verlijmd en ook twee balkjes voorzien om de middenplaat in vast te schroeven zodoende die eventueel er terug uit kan indien nodig.
+
+<img src="{{site.baseurl }}/assets/opbouw1.jpg" width="40%"><img src="{{site.baseurl }}/assets/opbouw3.jpg" width="40%">
+
+De ene kant met handvat word niet verlijmd om toegang te krijgen tot de sturing moest er iets mis lopen.
+
+Niet tegen staand zit hij redelijk klem zonder schroeven (pressfit) en eenmaal hij geschroefd is zal hij zeker niet los komen in gebruik.
+
+<img src="{{site.baseurl }}/assets/opbouw4.jpg" width="40%">

@@ -68,6 +68,16 @@ eerste zijden waren de twee zijkanten en middenstuk.
 
 <img src="{{site.baseurl }}/assets/ZijpannelenCnc.jpg" width="40%">
 
+Vervolgens ook de andere kanten op de zelfde mannier gedaan.
+
+Ondertussen was het tijd om de luidsprekers te monteren in het middenstuk.
+
+<img src="{{site.baseurl }}/assets/MiddenpanneelMetLuidsprekers .jpg" width="40%">
+
+Dit was een perfecte maat.
+
+
+
 
 
 

@@ -58,3 +58,16 @@ Wel heb ik gezorgd dat er voldoende ruimte tussen de verschillende zijden was om
 
 <img src="{{site.baseurl }}/assets/fusionManufacturing.jpg" width="40%">
 
+### Yeti cnc
+
+Opzetten van de Yeti cnc: eerst exporteren van grbl g_code en op usb gezet om over te brengen.
+
+Plaat van 122 cm op de waste board gelegd met plaats om er voor en er na een stuk hout te leggen van de zelfde dikte en dat omdat de yeti het opervlakte gebruikt om over te rijden en omdat er niet veel ruimte over is op de plaat.
+
+eerste zijden waren de twee zijkanten en middenstuk.
+
+<img src="{{site.baseurl }}/assets/ZijpannelenCnc.jpg" width="40%">
+
+
+
+

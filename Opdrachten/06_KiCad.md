@@ -2,7 +2,7 @@
 
 ## Les over het ontwerpen van PCB printjes
 
-Dit was een zeer interresante les voor het ontwerpen van je eigen pcb.
+Dit was een zeer interessante les voor het ontwerpen van je eigen pcb.
 
 We hebben een batterij houder met schakelaar en aansluitingen om in kledij te naaien gemaakt.
 

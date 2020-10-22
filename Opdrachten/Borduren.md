@@ -12,4 +12,4 @@ Ik heb dan getest in Mam voor illustrator file ook geëxsporteerd naar een EMF f
 
 Dit was geen probleem maar hij bekijk de kleuren en dan zet je de stekking er op. Deze kan je ook een richting van stekking geven zoals we gezien hebben in inkscape op het resultaat mooier te maken
 
-<img src="{{site.baseurl }}/assets/Mandinasports.jpg" width="40%">
+<img src="{{site.baseurl }}/assets/Madinasports.jpg" width="40%">

@@ -22,7 +22,7 @@ Dan hebben we maar besloten om met vaste vormen in het programma zelf en ook de 
 
 De tekst dan laten krommen zodoende hij met de buiten kant van de cirkel mee ging. De richting van het vullen wat aangepast en de afboording gemaakt.
 
-<img src="{{site.baseurl }}/assets/Madinasports.jpg" width="40%">
+<img src="{{site.baseurl }}/assets/patch.jpg" width="40%">
 
 
-<img src="{{site.baseurl }}/assets/Madinasports.jpg" width="40%">
+<img src="{{site.baseurl }}/assets/borduur6.jpg" width="40%">

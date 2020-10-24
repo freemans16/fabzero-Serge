@@ -18,7 +18,7 @@ Dit was geen probleem maar hij bekijk de kleuren en dan zet je de stekking er op
 
 Hier heb ik eerst een logo samen gesteld in inkscape maar bij het invoeren in het programma werd al vlug duidelijk dat de tekst niet optimaal was.
 
-Dan hebben we maar besloten om met vaste vormen in het programma zelf en ook de tekst daar te regenereren. Dus enkel het figuur heb ij geïmporteerd.
+Dan hebben we maar besloten om met vaste vormen in het programma zelf en ook de tekst daar te regenereren. Dus enkel het figuur heb ik geïmporteerd.
 
 De tekst dan laten krommen zodoende hij met de buiten kant van de cirkel mee ging. De richting van het vullen wat aangepast en de afboording gemaakt.
 

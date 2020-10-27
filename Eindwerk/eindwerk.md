@@ -113,3 +113,13 @@ Niet tegen staand zit hij redelijk klem zonder schroeven (pressfit) en eenmaal h
 Ik heb een bestaande doos die gemaakt was voor de XH M422 (audio versterker die ik gebruik) geïmporteerd in tinkercad en aangepast naar wat ik nodig heb.
 
 <img src="{{site.baseurl }}/assets/tinkercad.jpg" width="40%">
+
+### slicer
+
+Als slicer gebruik ik Chitubox, Deze slicer is geschilk voor SLA printers en daar de opervlakte er net op kan is dat mijn voorkeur printer
+
+<img src="{{site.baseurl }}/assets/slicer.jpg" width="40%">
+
+Als printer gebruik ik de Elegoo Mars met een blauwe transparante ABS like resin.
+
+<img src="{{site.baseurl }}/assets/elegooMars.jpg" width="40%">

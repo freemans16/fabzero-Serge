@@ -105,3 +105,11 @@ De ene kant met handvat word niet verlijmd om toegang te krijgen tot de sturing 
 Niet tegen staand zit hij redelijk klem zonder schroeven (pressfit) en eenmaal hij geschroefd is zal hij zeker niet los komen in gebruik.
 
 <img src="{{site.baseurl }}/assets/opbouw4.jpg" width="40%">
+
+## 3D Printen Tinkercad en fusion 360
+
+### Tinkercad
+
+Ik heb een bestaande doos die gemaakt was voor de XH M422 (audio versterker die ik gebruik) geïmporteerd in tinkercad en aangepast naar wat ik nodig heb.
+
+<img src="{{site.baseurl }}/assets/tinkercad.jpg" width="40%">

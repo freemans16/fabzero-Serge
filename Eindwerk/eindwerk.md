@@ -106,6 +106,16 @@ Niet tegen staand zit hij redelijk klem zonder schroeven (pressfit) en eenmaal h
 
 <img src="{{site.baseurl }}/assets/opbouw4.jpg" width="40%">
 
+Na de montage is het tijd voor wat afwerking.
+
+Eerst schuur ik de boorden gelijk zodat je er niet achter kan blijven hangen als je de box gebruikt en ook een beetje voor de etestiek.
+
+Het hout mul uit de schuurmachien wordt netjes bewaard omdat ik die zal gebruiken.
+
+<img src="{{site.baseurl }}/assets/tinkercad.jpg" width="40%">
+
+Na het schuren is duidelijk dat er nog wat openingen zijn.
+
 ## 3D Printen Tinkercad en fusion 360
 
 ### Tinkercad
